@@ -4,7 +4,7 @@ deployments:
   - name: gpt-35-turbo
     model:
       format: OpenAI
-      name: 
+      name: gpt-35-turbo
       version: "0613"
     sku:
       name: Standard
